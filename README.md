@@ -6,7 +6,7 @@ This is a study repo where, as seen during the [Udacity Self-Driving Car Enginee
 
 ### What is Machine Learning
 
-<center>![](./imgs/img1.png){width=70%}</center>
+![](./imgs/img1.png){width=70%}
 
 
 * **Artificial Intelligence (AI)**: a system that leverages information from its environment to make decision. For example, a video game bot.
