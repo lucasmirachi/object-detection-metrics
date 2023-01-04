@@ -6,7 +6,7 @@ This is a study repo where, as seen during the [Udacity Self-Driving Car Enginee
 
 ### What is Machine Learning
 
-<center>![](./imgs/img1.png){width=70%}</center>
+![](./imgs/img1.png){width=70%}
 
 
 * **Artificial Intelligence (AI)**: a system that leverages information from its environment to make decision. For example, a video game bot.
@@ -41,6 +41,6 @@ ACCURACY = {TP + FN + TN + FP\over TP + TN}
 
 By using the IOU concept (Interception over Union) which is defined as the ratio of the intersection of the object detection's bounding boxes and the union of these bounding boxes (like the image bellow):
 
-<center>![](./imgs/img2.png){width=50%} </center>
+![](./imgs/img2.png){width=50%}
 
 An IOU of 0.5 between a ground-truth bounding box and a detected bounding box is a common threshold to qualify the detection as a true positive.  
